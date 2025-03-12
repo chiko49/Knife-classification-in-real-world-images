@@ -1,7 +1,7 @@
 # Knife-classification-in-real-world-images
 # Project Overview
 
-This project, **Knife Classification in Real-World Images**, aims to accurately classify knives from diverse and dynamic visual landscapes using advanced Convolutional Neural Network (CNN) architectures. The project leverages ResNet18 and VGG16 to extract features from knife images, enhancing public safety through improved detection accuracy in real-world scenarios.
+This project, **Knife Classification in Real-World Images** is a coursework of Msc.AI university of surrey aims to accurately classify knives from diverse and dynamic visual landscapes using advanced Convolutional Neural Network (CNN) architectures. The project leverages ResNet18 and VGG16 to extract features from knife images, enhancing public safety through improved detection accuracy in real-world scenarios.
 
 ## Objectives
 
